@@ -2,120 +2,111 @@
     "posts": [
         {
                 "id": "0",
-                "photoUrl": "Ravi Tamada",
+                "photoUrl": "http://appzninja.io/swypic/assets/7EGRMwN",
                 "desc": "Teste1",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
+                "createdDate": "201210201800",
                 "upVote" : "20",
                 "downVote": "7",
-                "timer": "0"
+                "timer": "1800"
         },
         {
                 "id": "1",
-                "photoUrl": "Ravi Tamada",
+                "photoUrl": "http://appzninja.io/swypic/assets/DxX6IOe",
                 "desc": "Teste2",
-                "createdData": "0",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": "0"
+                "createdDate": "201210201900",
+                "upVote" : "30",
+                "downVote": "10",
+                "timer": "1500"
         },
         {
-                "id": "3",
-                "photoUrl": "Ravi Tamada",
-                "desc": "",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
+                "id": "2",
+                "photoUrl": "http://appzninja.io/swypic/assets/zpPgl7g",
+                "desc": "Teste3",
+                "createdDate": "201210201900",
+                "upVote" : "30",
+                "downVote": "40",
+                "timer": "1500"
         },
-        {
+                {
                 "id": "0",
-                "photoUrl": "Ravi Tamada",
-                "desc": "ravi@gmail.com",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
+                "photoUrl": "http://appzninja.io/swypic/assets/7EGRMwN",
+                "desc": "Teste1",
+                "createdDate": "201210201800",
+                "upVote" : "20",
+                "downVote": "7",
+                "timer": "1800"
         },
         {
-                "id": "0",
-                "photoUrl": "Ravi Tamada",
-                "desc": "ravi@gmail.com",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
+                "id": "1",
+                "photoUrl": "http://appzninja.io/swypic/assets/DxX6IOe",
+                "desc": "Teste2",
+                "createdDate": "201210201900",
+                "upVote" : "30",
+                "downVote": "10",
+                "timer": "1500"
         },
         {
+                "id": "2",
+                "photoUrl": "http://appzninja.io/swypic/assets/zpPgl7g",
+                "desc": "Teste3",
+                "createdDate": "201210201900",
+                "upVote" : "30",
+                "downVote": "40",
+                "timer": "1500"
+        },
+                {
                 "id": "0",
-                "photoUrl": "Ravi Tamada",
-                "desc": "ravi@gmail.com",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
+                "photoUrl": "http://appzninja.io/swypic/assets/7EGRMwN",
+                "desc": "Teste1",
+                "createdDate": "201210201800",
+                "upVote" : "20",
+                "downVote": "7",
+                "timer": "1800"
         },
         {
-                "id": "0",
-                "photoUrl": "Ravi Tamada",
-                "desc": "ravi@gmail.com",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
+                "id": "1",
+                "photoUrl": "http://appzninja.io/swypic/assets/DxX6IOe",
+                "desc": "Teste2",
+                "createdDate": "201210201900",
+                "upVote" : "30",
+                "downVote": "10",
+                "timer": "1500"
         },
         {
+                "id": "2",
+                "photoUrl": "http://appzninja.io/swypic/assets/zpPgl7g",
+                "desc": "Teste3",
+                "createdDate": "201210201900",
+                "upVote" : "30",
+                "downVote": "40",
+                "timer": "1500"
+        },
+                {
                 "id": "0",
-                "photoUrl": "Ravi Tamada",
-                "desc": "ravi@gmail.com",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
+                "photoUrl": "http://appzninja.io/swypic/assets/7EGRMwN",
+                "desc": "Teste1",
+                "createdDate": "201210201800",
+                "upVote" : "20",
+                "downVote": "7",
+                "timer": "1800"
         },
         {
-                "id": "0",
-                "photoUrl": "Ravi Tamada",
-                "desc": "ravi@gmail.com",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
+                "id": "1",
+                "photoUrl": "http://appzninja.io/swypic/assets/DxX6IOe",
+                "desc": "Teste2",
+                "createdDate": "201210201900",
+                "upVote" : "30",
+                "downVote": "10",
+                "timer": "1500"
         },
         {
-                "id": "0",
-                "photoUrl": "Ravi Tamada",
-                "desc": "ravi@gmail.com",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
-        },
-        {
-                "id": "0",
-                "photoUrl": "Ravi Tamada",
-                "desc": "ravi@gmail.com",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
-        },
-        {
-                "id": "0",
-                "photoUrl": "Ravi Tamada",
-                "desc": "ravi@gmail.com",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
-        },
-        {
-                "id": "0",
-                "photoUrl": "Ravi Tamada",
-                "desc": "ravi@gmail.com",
-                "createdData": "xx-xx-xxxx,x - street, x - country",
-                "upVote" : "male",
-                "downVote": "",
-                "timer": ""
+                "id": "2",
+                "photoUrl": "http://appzninja.io/swypic/assets/zpPgl7g",
+                "desc": "Teste3",
+                "createdData": "201210201900",
+                "upVote" : "30",
+                "downVote": "40",
+                "timer": "1500"
         }
     ]
 }
